@@ -1,0 +1,3 @@
+﻿  son.cpp
+C:\Users\dogus\OneDrive\Masaüstü\c++ VsIDE Odev\kabu_c_ders\son\son.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  son.vcxproj -> C:\Users\dogus\OneDrive\Masaüstü\c++ VsIDE Odev\kabu_c_ders\Debug\son.exe

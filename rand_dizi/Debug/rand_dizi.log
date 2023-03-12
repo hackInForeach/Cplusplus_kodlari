@@ -1,0 +1,3 @@
+﻿  rand_dizi.cpp
+C:\Users\dogus\OneDrive\Masaüstü\c++ VsIDE Odev\kabu_c_ders\rand_dizi\rand_dizi.cpp(22,9): warning C4553: '==': result of expression not used; did you intend '='?
+  rand_dizi.vcxproj -> C:\Users\dogus\OneDrive\Masaüstü\c++ VsIDE Odev\kabu_c_ders\Debug\rand_dizi.exe
